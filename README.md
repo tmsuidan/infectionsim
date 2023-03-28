@@ -21,8 +21,8 @@ If a kid gets infected by Tommy, he will then become infectious for 3 days as we
 You can assume kids will recover in 3 days and be immune
 
 2 possible situations: first is that multiple infected students multiply the possibility of infections 
-and second that it doesn't
-This is the second situation.
+and second that it doesn't.
+
 
 no seed was used as we continually incremented the number of iterations until the results converged.
 
